@@ -1,6 +1,1 @@
-# my foundation 
-- react
-- typescript
-- eslint
-- prettier
-- stylelint
+# Calorie_Bank_Side_Project
